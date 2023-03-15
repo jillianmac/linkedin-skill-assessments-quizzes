@@ -380,13 +380,13 @@ D. Because you cannot create a search folder for a subfolder
 #### Q51. When adding a calendar to view, which is not a valid option?
 
 - [ ] From Internet
-- [ ] From Contacts
+- [x] From Contacts
 - [ ] From Address Book
 - [ ] From Room List
 
 #### Q52. Which criteria can you select to filter email in the Focused folder?
 
-- [ ] unread status
+- [x] unread status
 - [ ] importance
 - [ ] message size
 - [ ] date received
@@ -417,7 +417,7 @@ D. Because you cannot create a search folder for a subfolder
 - [ ] importance level
 - [ ] priority level
 - [ ] category
-- [ ] due date
+- [x] due date
 
 #### Q57. What happens when you drag an email to the Calendar icon?
 
@@ -492,16 +492,18 @@ D. Because you cannot create a search folder for a subfolder
 #### Q67. In Outlook, a rule is applied to
 
 - [ ] contacts
-- [ ] messages
+- [x] messages
 - [ ] tasks
 - [ ] meetings
 
 #### Q68. You want to change the default font used for new messages and in the Notes field in Calendar, Contacts, and Tasks. How do you do this?
 
-- [ ] Change the fonts used for mail in File > Options > Mail > Stationery and Fonts (Windows) or Outlook > Preferences > Fonts (Mac). The fonts used in the Notes field in Calendar, Contacts, and Tasks cannot be changed.
+- [x] Change the fonts used for mail in File > Options > Mail > Stationery and Fonts (Windows) or Outlook > Preferences > Fonts (Mac). The fonts used in the Notes field in Calendar, Contacts, and Tasks cannot be changed.
 - [ ] Click File > Options > General > Stationery and Fonts (Windows) or Outlook > Preferences > Composing (Mac).
 - [ ] Click File > Options > Mail > Stationery and Fonts (Windows) or Outlook > Preferences > Fonts (Mac).
 - [ ] Select the desired font in a new message. Outlook will use it for future messages and notes.
+
+[[Reference](https://support.microsoft.com/en-us/office/change-or-set-the-default-font-in-outlook-20f72414-2c42-4b53-9654-d07a92b9294a#ID0EBBD=Windows)
 
 #### Q69. What does the Groups section contain in Outlook?
 
@@ -570,7 +572,6 @@ D. Because you cannot create a search folder for a subfolder
 - [ ] Create a rule to apply conditional formatting to all messages where you are in the cc line.
 
 #### Q78. You created a meeting for next Tuesday at 2 p.m., and several invitees have accepted. How do you change the meeting so it will begin at 1 p.m.?
-
     A. Open the calendar in Day, Week, or Work Week view. Drag the start time to 1 p.m. and send an update.
     B. Double-click the meeting to open it, change the start time to 1 p.m., and send an update.
     C. Some people have already accepted, so you must cancel this meeting and create a new meeting.
@@ -693,3 +694,10 @@ D. Because you cannot create a search folder for a subfolder
 - [ ] DOCX Windows) or DOCM (Mac)
 
 [Reference link](https://www.codetwo.com/admins-blog/export-outlook-contacts/)
+
+#### Q95. Shanti Keller is the only person named Shanti in your contacts. You have types "Shanti" in the To address box, and the name Shanti Adams appears. Why might this happen?
+
+- [x] You previously received and replied to an enail from Shanti Adams. Autocomplete is now automatically suggesting her name and email address.
+- [ ] Shanti Adams was mentioned in a Teams meeting and was listed in the Meeting Insights without an email address.
+- [ ] It is random. If you type "Shanti" again, Shanti Keller may appear
+- [ ] Shanti Adams appears in your coworker's personal contact list. Although you and your coworker do not share an Outlook account, Shanti Adams appears in your personal contacts, too
